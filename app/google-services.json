@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "347389755249",
+    "firebase_url": "https://ex83firebasedatabaset.firebaseio.com",
+    "project_id": "ex83firebasedatabaset",
+    "storage_bucket": "ex83firebasedatabaset.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347389755249:android:79273ab30db12e5e0b00d0",
+        "android_client_info": {
+          "package_name": "com.ahnsafety.ex83firebasedbtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347389755249-ksqoekvv5v263u84c7bovc5denpsd6fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATdozuchVcSYnJQDAoSLkQd3zQmi3Oz04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347389755249-ksqoekvv5v263u84c7bovc5denpsd6fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
